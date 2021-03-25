@@ -15,7 +15,7 @@
 
 ## Demo
 
-Check out the live demo [here](https://xxiamdsk.github.io/project-name).
+Check out the live demo [here](https://xxiamdsk.github.io/NumboMania).
 
 ## Installation
 
